@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.luki84.dbtojsonlexporter
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
